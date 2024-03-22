@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Alagoz</h1>
-<h3 align="center">Undergraduate student of CS/Engineering. Enthusiastic about learning new techs about software methodology and applications.</h3>
+<h3 align="center"> BSc. CS/Engineering, Software Design Engineer. Enthusiastic about learning new techs about software methodology and applications.</h3>
 
 - 📫 How to reach me **emrealagoz123@gmail.com**
 
